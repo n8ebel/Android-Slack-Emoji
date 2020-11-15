@@ -11,5 +11,5 @@ Android-related emojis for Slack
 | <img src="androidtogether.png" width="100" height="100"> | <img src="androidalltogether.png" width="100" height="100"> | <img src="androidstudio3.png" width="100" height="100"> | <img src="togethernotthesame.png" width="100" height="100"> |
 
 
-| <img src="androidstrobe.gif" width="100" height="100"> | <img src="androidpop.png" width="100" height="100"> | <img src="androidtogetherparty.gif" width="100" height="100"> | |
+| <img src="androidstrobe.gif" width="100" height="100"> | <img src="androidpop.gif" width="100" height="100"> | <img src="androidtogetherparty.gif" width="100" height="100"> | |
 
