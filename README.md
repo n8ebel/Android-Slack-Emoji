@@ -8,4 +8,8 @@ Android-related emojis for Slack
 | <img src="androidred.png" width="100" height="100"> | <img src="androidgray.png" width="100" height="100"> | <img src="androidyellow.png" width="100" height="100"> | <img src="androidbrown.png" width="100" height="100"> |
 | <img src="androidhead.png" width="100" height="100"> | <img src="androidfixer.png" width="100" height="100"> | <img src="androidwave.png" width="100" height="100"> | <img src="androidcelebrate.png" width="100" height="100"> |
 | <img src="androidstudio4.png" width="100" height="100"> | <img src="kotlinandroid2.png" width="100" height="100"> | <img src="kotlin.png" width="100" height="100"> | <img src="kotlinandroid.png" width="100" height="100"> |
-| <img src="androidtogether.png" width="100" height="100"> | <img src="androidalltogether.png" width="100" height="100"> | <img src="androidtogetherparty.gif" width="100" height="100"> | <img src="togethernotthesame.png" width="100" height="100"> |
+| <img src="androidtogether.png" width="100" height="100"> | <img src="androidalltogether.png" width="100" height="100"> | <img src="androidstudio3.png" width="100" height="100"> | <img src="togethernotthesame.png" width="100" height="100"> |
+
+
+| <img src="androidstrobe.gif" width="100" height="100"> | <img src="androidpop.png" width="100" height="100"> | <img src="androidtogetherparty.gif" width="100" height="100"> | |
+
